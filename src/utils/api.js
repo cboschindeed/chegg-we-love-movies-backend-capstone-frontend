@@ -1,4 +1,5 @@
-const API_BASE_URL = "https://welovemoviesrender-wb98.onrender.com"
+const API_BASE_URL =
+  "https://chegg-we-love-movies-backend-capstone.onrender.com";
 //const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://localhost:5001";
 
 /**
